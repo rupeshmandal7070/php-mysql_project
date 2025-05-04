@@ -21,6 +21,6 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-php-
 
-    - run: sudo cp -r /home/mandal707036/php-project/_work/php-project/php-project/* /var/www/php-project
+    - run: sudo cp -r /home/mandal707036/php-project/_work/php-mysql_project/php-mysql_project/* /var/www/php-project
 
  
